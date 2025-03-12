@@ -1,2 +1,4 @@
-# CSE130
-Details the work I have done in the CSE 130 course offered by UCSC
+# Assignment 0 directory
+
+Made by Chahel Nerusu Spring 2024
+This directory contains source code and other files for Assignment 0.
